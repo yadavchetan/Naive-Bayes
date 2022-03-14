@@ -28,7 +28,8 @@ It is mainly used in text classification that includes a high-dimensional traini
 **Naïve Bayes Classifier is one of the simple and most effective Classification algorithms which helps in building the 
 fast machine learning models that can make quick predictions.
 
-There are three types of Naive Bayes model under the scikit-learn library:
+There are three types of Naive Bayes model under the scikit-learn library:  
+
 **Gaussian:** It is used in classification and it assumes that features follow a normal distribution.
 
 **Multinomial:** It is used for discrete counts. For example, let’s say,  we have a text classification problem. 
